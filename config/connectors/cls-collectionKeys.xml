@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="Flexdeploy.cloudServices:insertObjects" connectorServiceName="Flexdeploy.cloudServices:insertObjects"/>
+            <keyDetails collectionKey="Flexdeploy.cloudServices:retrieveObjects" connectorServiceName="Flexdeploy.cloudServices:retrieveObjects"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
